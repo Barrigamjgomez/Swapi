@@ -1,0 +1,30 @@
+
+.img1, .img2, .img3, .img4, .img5, .img6{	
+background-repeat:no-repeat;
+ background-color: transparent;
+ height:20vh;
+ width:20vh;
+ background-position:center;
+ border:none;
+ 
+}
+
+.img1{
+background-image: url(../img/1.png);
+}
+.img2{
+background-image: url(../img/2.png);
+}
+.img3{
+background-image: url(../img/3.png);
+}
+.img4{
+background-image: url(../img/4.png);
+}
+.img5{
+background-image: url(../img/5.png);
+}
+.img6{
+background-image: url(../img/6.png);
+}
+
